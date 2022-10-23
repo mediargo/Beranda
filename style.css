@@ -1,0 +1,17 @@
+img{
+    display: block;
+    margin-top: 3ch;
+    margin-left: auto;
+    margin-right: auto;
+    height: 333px;
+    width: 333px;
+    border-radius: 100%;
+}
+
+.nn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 19px;
+    stroke: aqua;
+}
